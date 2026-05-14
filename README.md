@@ -42,7 +42,7 @@ Chi tiết vụ việc:
 Chạy file:
 
 ```bat id="w3d1n9"
-SupplyChain-IOC-Scanner.bat
+npm-supply-chain-check.bat
 ```
 
 Script sẽ:
